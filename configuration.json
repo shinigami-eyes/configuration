@@ -1,5 +1,5 @@
 {
   "tfriendly": "https://raw.githubusercontent.com/shinigami-eyes/dynamic-filters/main/bloomfilters/bloomfilter_%VERSION%_tfriendly.dat",
   "transphobic": "https://raw.githubusercontent.com/shinigami-eyes/dynamic-filters/main/bloomfilters/bloomfilter_%VERSION%_transphobic.dat",
-  "bloomVersion": 24121100
+  "bloomVersion": 25042501
 }
